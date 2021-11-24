@@ -78,6 +78,7 @@ Response :
     "body": null
 }
 
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-37-20.png)
 
 2.CREATE JOB
 POST : localhost:8080/create-job
@@ -104,6 +105,8 @@ Response :
     "body": null
 }
 
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-38-51.png)
+
 3. FIND POLICY BY ID
 GET : localhost:8080/find-policy-by-id/7
 
@@ -122,6 +125,7 @@ Response :
     },
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-39-42.png)
 
 4. FIND JOB BY ID
 GET : localhost:8080/find-job-by-id/7
@@ -141,7 +145,7 @@ Response :
     },
     "body": null
 }
-
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-40-55.png)
 
 5. UPDATE POLICY
 PUT localhost:8080/update-policy/7
@@ -167,7 +171,7 @@ Response :
     },
     "body": null
 }
-
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-42-43.png)
 
 6. UPDATE JOB
 PUT localhost:8080/update-job/7
@@ -193,6 +197,7 @@ Response :
     },
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-44-05.png)
 
 7. FIND POLICY BY JOB ID
 GET : localhost:8080/find-policy-by-jobid/9
@@ -212,6 +217,7 @@ Response :
     },
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-48-08.png)
 
 7. FIND JOB BY POLICY ID
 GET : localhost:8080//find-job-by-policyid/4
@@ -231,6 +237,7 @@ Response :
     },
     "body": null
 }
+
 
 
 8. FIND ALL JOBS
@@ -288,6 +295,7 @@ Response :
     ],
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-57-27.png)
 
 10. FIND ALL POLICIES
 GET localhost:8080/find-all-policies
@@ -351,6 +359,7 @@ Response :
     ],
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-57-11.png)
 
 11. DELETE JOB BY ID
 DELETE : localhost:8080/delete-job-by-id/6
@@ -364,6 +373,7 @@ Response :
     "data": "Deletion Done of id :6",
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-54-18.png)
 
 12. DELETE POLICY ID
 DELETE : localhost:8080/delete-policy-by-id/4
@@ -377,6 +387,7 @@ Response :
     "data": "Deletion Done of id :4",
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-54-51.png)
 
 
 
