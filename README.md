@@ -220,7 +220,7 @@ Response :
 ![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-23%2019-48-08.png)
 
 7. FIND JOB BY POLICY ID
-GET : localhost:8080//find-job-by-policyid/4
+GET : localhost:8080/find-job-by-policyid/8
 
 Response :
 {
