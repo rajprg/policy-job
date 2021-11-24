@@ -229,14 +229,15 @@ Response :
     "path": null,
     "statusCode": 200,
     "data": {
-        "id": 6,
-        "name": "Actornew",
-        "policyId": 4,
-        "createdAt": "2021-11-22T20:10:16.056",
-        "updatedAt": "2021-11-22T20:10:16.056"
+        "id": 8,
+        "name": "Job new",
+        "policyId": 8,
+        "createdAt": "2021-11-23T19:46:54.917",
+        "updatedAt": "2021-11-23T19:46:54.917"
     },
     "body": null
 }
+![](https://github.com/rajprg/policy-job/blob/main/policy-job/images/Screenshot%20from%202021-11-24%2017-45-18.png)
 
 
 
